@@ -14,7 +14,6 @@ namespace SampleUwpApp.ViewModels
     {
         public const string MainPageKey = "MainPage";
         public const string OtherPageKey = "OtherPage";
-        public const string BatterySimulatorPageKey = "BatterySimulator";
 
         public ViewModelLocator()
         {
